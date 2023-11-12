@@ -1,0 +1,13 @@
+numpy
+xarray
+pandas
+math
+netCDF4
+tensorflow
+torch
+keras
+matplotlib
+mpl_toolkits.basemap 
+PIL
+pandas 
+scikit-learn 
