@@ -8,6 +8,9 @@ pip install -r requirements.txt
 ### Software
 PanoplyWin: https://www.giss.nasa.gov/tools/panoply/
 
+### Datasets
+NetCDF: https://portal.nccs.nasa.gov/datashare/modelE_ocean/DataScience/
+
 ## Background
 Drivers of air‐sea CO2 flux seasonality and its long‐term changes in the NASA‐GISS model CMIP6 submission: https://ntrs.nasa.gov/citations/20210000291
 
